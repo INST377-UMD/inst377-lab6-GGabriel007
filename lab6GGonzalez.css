@@ -1,0 +1,15 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+#map {
+    height: 600px;
+    width: 100%;
+}
+
+#marker-info {
+    margin-top: 20px;
+    font-size: 16px;
+}
